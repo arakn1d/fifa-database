@@ -1,0 +1,138 @@
+[
+    {
+        "leagueId": 1,
+        "league": "Premier League"
+    },
+    {
+        "leagueId": 2,
+        "league": "Championship"
+    },
+    {
+        "leagueId": 3,
+        "league": "League One"
+    },
+    {
+        "leagueId": 4,
+        "league": "League Two"
+    },
+    {
+        "leagueId": 5,
+        "league": "Bundesliga"
+    },
+    {
+        "leagueId": 6,
+        "league": "2. Bundesliga"
+    },
+    {
+        "leagueId": 7,
+        "league": "3. Liga"
+    },
+    {
+        "leagueId": 8,
+        "league": "LaLiga Santander"
+    },
+    {
+        "leagueId": 9,
+        "league": "LaLiga Smartbank"
+    },
+    {
+        "leagueId": 10,
+        "league": "Serie A"
+    },
+    {
+        "leagueId": 11,
+        "league": "Serie B"
+    },
+    {
+        "leagueId": 12,
+        "league": "Ligue 1"
+    },
+    {
+        "leagueId": 13,
+        "league": "Ligue 2"
+    },
+    {
+        "leagueId": 14,
+        "league": "Primeira Liga"
+    },
+    {
+        "leagueId": 15,
+        "league": "Eredivisie"
+    },
+    {
+        "leagueId": 16,
+        "league": "1A Pro League"
+    },
+    {
+        "leagueId": 17,
+        "league": "Süper Lig"
+    },
+    {
+        "leagueId": 18,
+        "league": "Allsvenskan"
+    },
+    {
+        "leagueId": 19,
+        "league": "Eliteserien"
+    },
+    {
+        "leagueId": 20,
+        "league": "Ekstraklasa"
+    },
+    {
+        "leagueId": 21,
+        "league": "Liga I"
+    },
+    {
+        "leagueId": 22,
+        "league": "Ö. Bundesliga"
+    },
+    {
+        "leagueId": 23,
+        "league": "Suisse Super League"
+    },
+    {
+        "leagueId": 24,
+        "league": "Scottish Premiership"
+    },
+    {
+        "leagueId": 25,
+        "league": "SSE Airtricity PD"
+    },
+    {
+        "leagueId": 26,
+        "league": "3F Superliga"
+    },
+    {
+        "leagueId": 27,
+        "league": "Chinese Super League"
+    },
+    {
+        "leagueId": 28,
+        "league": "Hero ISL"
+    },
+    {
+        "leagueId": 29,
+        "league": "Hyundai A-League"
+    },
+    {
+        "leagueId": 30,
+        "league": "K-League 1"
+    },
+    {
+        "leagueId": 31,
+        "league": "Argentina Primera Div."
+    },
+    {
+        "leagueId": 32,
+        "league": "MLS"
+    },
+    {
+        "leagueId": 33,
+        "league": "Saudi Prof. League"
+    },
+    {
+        "leagueId": 34,
+        "league": "Rest of the World"
+    }
+]
